@@ -1,6 +1,4 @@
 // Write your tests here!
-
-// Write your tests here!
 const expect = require("chai").expect;
 const {caesar} = require("../src/caesar.js");
 
